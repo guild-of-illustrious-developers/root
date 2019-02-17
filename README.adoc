@@ -13,7 +13,7 @@ La guilde a pour objectif d'avoir une organisation plutôt démocratique (ex: pr
 * modération (discord/GitHub/etc)
 * surveiller les projets et les commits
 * appliquer les propositions votées (ex: créer un projet/supprimer un projet)
-* gérer/organiser (ex: la guilde, des serveurs, etc)
+* gérer/organiser (ex: la guilde, l'e-mail, des serveurs, etc)
 
 == Règles
 
