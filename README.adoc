@@ -3,4 +3,22 @@
 
 == Présentation
 
+Le but du projet est de réaliser à plusieurs, à distance, des projets de développement (jeux/autre) publiés sous licence libre sans but lucratif. Tout le monde peut rejoindre la guilde, sans condition de niveau (dans le but d'apprendre) ou de temps (beaucoup de communication différée).
+
+"Développeur/développeuse" est ici utilisé au sens large (pas uniquement pour la programmation) pour désigner toute personne qui contribue aux projets, peu importe la nature de la contribution.
+
+La guilde a pour objectif d'avoir une organisation plutôt démocratique (ex: proposer et voter des idées), le tout étant géré/maintenu par quelques administrateurs (cumulé au rôle de membre).
+
+.Exemples de fonctions d'administration
+* modération (discord/GitHub/etc)
+* surveiller les projets et les commits
+* appliquer les propositions votées (ex: créer un projet/supprimer un projet)
+* gérer/organiser (ex: la guilde, des serveurs, etc)
+
 == Règles
+
+* le respect
+
+== Informations
+
+* le repository de https://github.com/guild-of-illustrious-developers/test[test] peut être utilisé pour faire des tests de commit ou autre
