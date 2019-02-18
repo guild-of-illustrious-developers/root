@@ -7,6 +7,8 @@ Le but du projet est de réaliser à plusieurs, à distance, des projets de dév
 
 "Développeur/développeuse" est ici utilisé au sens large (pas uniquement pour la programmation) pour désigner toute personne qui contribue aux projets, peu importe la nature de la contribution.
 
+Le projet est avant tout une expérience afin de voir comment ça peut fonctionner et les difficultés que ça implique au niveau individuel ou général (motivation, etc). Même dans le cas où aucun projet n'aboutirait, il est intéressant d'essayer pour mettre en évidence ces difficultés.
+
 La guilde a pour objectif d'avoir une organisation plutôt démocratique (ex: proposer et voter des idées), le tout étant géré/maintenu par quelques administrateurs (cumulé au rôle de membre).
 
 .Exemples de fonctions d'administration
