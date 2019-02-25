@@ -22,6 +22,7 @@ Rejoindre la guilde -> https://discord.gg/HPpTRnt[discord].
 == Règles
 
 * le respect
+* les moyens de communication non persistants (chat sans historique, vocal) peuvent être utilisés, mais les informations importantes doivent être retranscrites de manière persistante
 
 == Informations
 
