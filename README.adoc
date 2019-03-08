@@ -25,6 +25,23 @@ Rejoindre la guilde -> https://discord.gg/HPpTRnt[discord].
 * les moyens de communication non persistants (chat sans historique, vocal) peuvent être utilisés, mais les informations importantes doivent être retranscrites de manière persistante
 * les repositories ne doivent pas être modifiés autrement que par des commits successifs (ex: pas de push forcé), seuls les administrateurs peuvent si besoin réctifier une erreur (ce qui nécessitera un reset de tous les repositories locaux); les informations des commits doivent donc être exactes (e-mail, nom) et aucune donnée sensible ne doit être push
 
+== Procédures
+
+=== Vote
+
+
+NOTE: Les votes consistent globalement à "`appliquer une règle de tiers d'écart sur les votes en deux phases,  conclu par un tirage au sort`".
+
+* les administrateurs démarrent des votes quand demandé/nécessaire; tous les votes doivent être précédés d'une phase de discussion
+* après un certains temps (à la discrétion des administrateurs pour le moment) les votes sont comptabilisés; les options qui sont retenues vérifient une condition: `valid_option(votes): votes >= ceil(2/3*max)`
++
+[NOTE]
+====
+`max` est le nombre maximum de votes pour une option, le but de cette règle étant de départager les options avec une certaine marge pour éviter qu'un seul vote soit trop significatif et fasse basculer le résultat
+====
+* si une seule option subsiste, le vote est terminé, sinon un second vote est effectué entre les options valides
+* s'il reste encore plus d'une option valide, le résultat est tiré au sort
+
 == Informations
 
 * le repository de https://github.com/guild-of-illustrious-developers/test[test] peut être utilisé pour faire des tests de commit ou autre
